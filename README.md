@@ -1,1 +1,1 @@
-# FederatedLearningOnMNIST
+# Federated Learning On MNIST
